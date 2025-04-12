@@ -4,9 +4,7 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">✨Sou estudante de Gestão da Tecnologia da Informação, com foco na área de Front-End. Atualmente estou me desenvolvendo em HTML, CSS e JavaScript, além de ter noções de Python e linguagem C.</p>
+<p align="left">✨Sou estudante de Gestão da Tecnologia da Informação, com foco na área de Front-End. Atualmente estou estudando HTML, CSS e JavaScript. Também tenho noções de Python e linguagem C.</p>
 
 ###
 
